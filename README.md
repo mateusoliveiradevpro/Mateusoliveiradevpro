@@ -26,7 +26,6 @@ Em breve, meus principais projetos estarão disponíveis aqui.
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/mateusoliveiradev/
 - E-mail: mateusoliveiradev11@gmail.com
--
 
 <!--
 **mateusoliveiradevpro/Mateusoliveiradevpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
